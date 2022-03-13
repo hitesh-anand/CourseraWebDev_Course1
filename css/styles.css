@@ -64,3 +64,10 @@ body{
     width : 454px;
     padding-bottom: 40px;
 }
+
+#carouselButton { 
+    right:0px;
+    position: relative;
+    bottom: 0px;
+    z-index: 1;
+ }
